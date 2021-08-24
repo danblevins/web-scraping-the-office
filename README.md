@@ -12,7 +12,7 @@ I love The Office and have been a fan since it aired on NBC every Thursday night
 
 ## Installation & Usage
 
-In your terminal/ command line, make sure you have Python 3 installed:
+In your terminal/ command line, make sure you have Python 3 installed (I'm using Python 3.6.8):
 <br>
     `$ python3 --version`
     
