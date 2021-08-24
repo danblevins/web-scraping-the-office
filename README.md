@@ -21,7 +21,7 @@ Libraries Used:
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Pandas](https://pandas.pydata.org/)
 
-After downloading this folder, run this comand inside the folder:
+After downloading this repository, run the below command inside the repository using the terminal:
 <br>
     `$ python3 web_scraping_the_office.py`
 
