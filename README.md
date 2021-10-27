@@ -4,7 +4,7 @@
 
 In this project, I scrape all lines from Seasons 1 through 9 of [The Office](https://www.officequotes.net/).
 
-For a Step-by-Step tutorial, read my [Medium article](https://medium.com/analytics-vidhya/step-by-step-web-scraping-every-line-from-the-office-in-python-3b28768c56f4).
+For a Step-by-Step tutorial, read this [Medium article](https://medium.com/analytics-vidhya/step-by-step-web-scraping-every-line-from-the-office-in-python-3b28768c56f4).
 
 ## Inspiration
 
